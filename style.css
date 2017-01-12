@@ -1,1 +1,6 @@
-background: -webkit-radial-gradient(red, white);
+body{
+  background: -webkit-radial-gradient(red, white);
+}
+h1{
+  font-family: helvetica;
+}
