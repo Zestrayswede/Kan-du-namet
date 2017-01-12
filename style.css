@@ -1,5 +1,5 @@
 body{
-  background: -webkit-radial-gradient(red, white);
+  background: radial-gradient(circle, red, blue);
 }
 h1{
   font-family: Helvetica;
