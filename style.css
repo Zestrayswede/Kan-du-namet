@@ -1,5 +1,5 @@
 body{
-  background-image: radial-gradient(red,white);
+  background: linear-gradient(red,white);
 }
 /*
 h1{
