@@ -1,7 +1,6 @@
 
 body{
-  background-size: 100%
-  background: radial-gradient(red, blue, orange);
+  background: radial-gradient(100%, red, blue, orange);
 }
 /*
 h1{
