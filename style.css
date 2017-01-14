@@ -1,6 +1,6 @@
 
 body{
-  background: radial-gradient(red, blue, orange, no-repeat center center);
+  background: radial-gradient(red blue orange);
   margin: 0;
   padding: 0;
 }
