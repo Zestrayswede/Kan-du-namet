@@ -1,6 +1,8 @@
 
 body{
   background: radial-gradient(red, blue, orange);
+  margin: 0;
+  padding: 0;
 }
 /*
 h1{
