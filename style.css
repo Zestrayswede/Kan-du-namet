@@ -4,8 +4,11 @@ body{
   margin: 0;
   padding: 0;
 }
-/*
+
 h1{
-  font-family: arial;
+  font-family: helvetica;
 }
-*/
+
+p{
+  font-family: sans-serif;
+}
