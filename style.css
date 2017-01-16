@@ -1,7 +1,7 @@
 
 body{
   background-color: #e21414;
-  background: -webkit-radial-gradient(#e21414, #f2d0d0);
+  background: -webkit-linear-gradient(#e21414, #f2d0d0);
   height: 500px;
   width: 500px;
 }
