@@ -2,6 +2,8 @@
 body{
   background: #e21414;
   background: -webkit-radial-gradient(#e21414, #f2d0d0);
+  height: 500px;
+  width: 500px;
 }
 
 h1{
