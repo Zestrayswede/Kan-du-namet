@@ -1,8 +1,8 @@
 
 body{
   background-color: #e21414;
-  background: -webkit-linear-gradient(#e21414, #f2d0d0);
-  height: 600px;
+  background: -webkit-radial-gradient(#e21414, #f2d0d0);
+  height: 620px;
 }
 
 h1{
