@@ -8,9 +8,15 @@ body{
   height: 100%;
 }
 
-.title{
+div.title{
   font-family: georgia, serif;
-  
+  text-align: center;  
+}
+
+div.picture{
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 p{
