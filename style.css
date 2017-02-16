@@ -8,12 +8,12 @@ body{
   height: 100%;
 }
 
-div.title{
+.title{
   font-family: georgia, serif;
   text-align: center;  
 }
 
-div.picture.img{
+.picture{
   position: absolute;
   margin-right: 25%;
   margin-left: 25%;
