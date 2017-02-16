@@ -13,7 +13,7 @@ div.title{
   text-align: center;  
 }
 
-div.picture{
+div.picture.img{
   position: absolute;
   right: 20%;
   display: block;
