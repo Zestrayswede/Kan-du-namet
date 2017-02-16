@@ -8,13 +8,13 @@ body{
   height: 100%;
 }
 
-.title{
+.Title{
   font-family: georgia, serif;
   text-align: center;
   
 }
 
-.picture{
+.Picture{
   position: absolute;
   margin: auto;
   margin-top: 10%;
