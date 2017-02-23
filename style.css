@@ -19,8 +19,10 @@ div.Title{
 
 div.Game.Picture{
   border: 2px;
+  height: 200px;
 }
 
 p{
   font-family: helvetica, sans-serif;
+  text-align: center;
 }
