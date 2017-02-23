@@ -18,6 +18,8 @@ div.Title{
 div.Game.img{
   border: 2px, solid, black;
   height: 200px;
+  position: relative;
+  right: 10%;
 }
 
 p{
