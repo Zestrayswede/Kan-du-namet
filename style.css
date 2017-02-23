@@ -3,10 +3,10 @@ html{
 }
 
 body{
+  height: 100%;
   background-color: #e21414;
   background: -webkit-radial-gradient(#f2d0d0, #e21414);
   Background-repeat: no-repeat;
-  height: 100%;
 }
 
 
