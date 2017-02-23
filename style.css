@@ -8,9 +8,6 @@ body{
   height: 100%;
 }
 
-div{
-  border-style: solid;
-}
 
 div.Title{
   font-family: georgia, serif;
@@ -18,7 +15,7 @@ div.Title{
 }
 
 div.Game.Picture{
-  border: 2px;
+  border: 2px, solid, black;
   height: 200px;
 }
 
