@@ -20,7 +20,7 @@ div.Title{
 div.Game.Picture{
   position: relative;
   max-width: 200px;
-  border-width: 2px;
+  border-width: 20px;
 }
 
 p{
