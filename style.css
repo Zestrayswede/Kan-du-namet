@@ -20,6 +20,7 @@ div{
 .Picture{
   position: relative;
   max-width: 200px;
+  border-width: 2px;
 }
 
 p{
