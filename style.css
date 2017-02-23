@@ -14,7 +14,7 @@ div.Title{
   text-align: center; 
 }
 
-div.Game.Picture{
+div.Game.img{
   border: 2px, solid, black;
   height: 200px;
 }
