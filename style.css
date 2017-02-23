@@ -18,7 +18,7 @@ body{
   position: absolute;
   margin: auto;
   max-width: 200px;
-  border:none;
+  border:hidden;
 }
 
 p{
