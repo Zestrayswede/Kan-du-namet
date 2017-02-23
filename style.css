@@ -12,12 +12,12 @@ div{
   border-style: solid;
 }
 
-.Title{
+div.Title{
   font-family: georgia, serif;
   text-align: center; 
 }
 
-.Picture{
+div.Game.Picture{
   position: relative;
   max-width: 200px;
   border-width: 2px;
