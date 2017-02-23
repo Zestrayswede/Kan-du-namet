@@ -15,7 +15,7 @@ body{
 }
 
 .Picture{
-  position: absolute;
+  position: relative;
   margin: auto;
   max-width: 200px;
   border:hidden;
