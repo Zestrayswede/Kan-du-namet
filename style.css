@@ -8,6 +8,10 @@ body{
   height: 100%;
 }
 
+div{
+  border-style: solid;
+}
+
 .Title{
   font-family: georgia, serif;
   text-align: center; 
