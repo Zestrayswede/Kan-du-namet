@@ -15,6 +15,12 @@ div.Title{
   text-align: center; 
 }
 
+img{
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+
 p{
   font-family: helvetica, sans-serif;
   text-align: center;
