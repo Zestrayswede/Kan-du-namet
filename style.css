@@ -15,13 +15,6 @@ div.Title{
   text-align: center; 
 }
 
-div.Game.img{
-  border: 2px, solid, black;
-  width: 25%;
-  position: relative;
-  right: 25%;
-}
-
 p{
   font-family: helvetica, sans-serif;
   text-align: center;
